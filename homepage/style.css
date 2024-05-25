@@ -1,0 +1,116 @@
+.body{
+  background: url(1.jpg);
+  justify-content: center;
+  display: center;
+}
+
+.search{
+
+}
+
+.hd{
+  background-color: transparent;
+  border-radius: 5px;
+  margin-top: 30px;
+  height: 40px;
+}
+
+#txt{
+display: flex;
+justify-content: center;
+padding-top: 10px;
+color: #ffffff;
+font-family: 'Courier New', Courier, monospace;
+font-size: larger;
+}
+
+.navbar{}
+
+.features{
+  background-color: transparent;
+  border-radius: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  font-weight: bold;
+}
+
+#txf{
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+  color: #ffffff;
+  padding-bottom: 6px;
+}
+
+a{
+  text-decoration: none;
+  color: #ff417a;
+}
+
+.vid{
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #000000;
+
+}
+
+#video{
+  border-radius: 5px;
+  display: flex;
+  height: 150px;
+  width: max-content;
+}
+
+.bottom{
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+#earn{
+  background-color: transparent;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+  display: flex;
+  justify-content: center;
+}
+
+#btn{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s ease;
+}
+
+#btn:hover{
+  color: #ff417a;
+}
+
+#box{
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+}
+
+.b{
+  display: flex;
+  justify-content: center;
+}
+
+#r{
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
+}
